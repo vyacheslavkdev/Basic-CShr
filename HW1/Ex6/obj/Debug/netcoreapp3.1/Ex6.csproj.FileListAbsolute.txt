@@ -1,0 +1,13 @@
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\Ex6\obj\Debug\netcoreapp3.1\Ex6.csprojAssemblyReference.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\Ex6\obj\Debug\netcoreapp3.1\Ex6.AssemblyInfoInputs.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\Ex6\obj\Debug\netcoreapp3.1\Ex6.AssemblyInfo.cs
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\Ex6\obj\Debug\netcoreapp3.1\Ex6.csproj.CoreCompileInputs.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\Ex6\bin\Debug\netcoreapp3.1\Ex6.exe
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\Ex6\bin\Debug\netcoreapp3.1\Ex6.deps.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\Ex6\bin\Debug\netcoreapp3.1\Ex6.runtimeconfig.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\Ex6\bin\Debug\netcoreapp3.1\Ex6.runtimeconfig.dev.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\Ex6\bin\Debug\netcoreapp3.1\Ex6.dll
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\Ex6\bin\Debug\netcoreapp3.1\Ex6.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\Ex6\obj\Debug\netcoreapp3.1\Ex6.dll
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\Ex6\obj\Debug\netcoreapp3.1\Ex6.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\Ex6\obj\Debug\netcoreapp3.1\Ex6.genruntimeconfig.cache
