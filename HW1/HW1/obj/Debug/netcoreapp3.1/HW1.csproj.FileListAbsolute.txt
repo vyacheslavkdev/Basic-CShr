@@ -1,0 +1,13 @@
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\HW1\bin\Debug\netcoreapp3.1\HW1.exe
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\HW1\bin\Debug\netcoreapp3.1\HW1.deps.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\HW1\bin\Debug\netcoreapp3.1\HW1.runtimeconfig.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\HW1\bin\Debug\netcoreapp3.1\HW1.runtimeconfig.dev.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\HW1\bin\Debug\netcoreapp3.1\HW1.dll
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\HW1\bin\Debug\netcoreapp3.1\HW1.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.csprojAssemblyReference.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.AssemblyInfoInputs.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.AssemblyInfo.cs
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.csproj.CoreCompileInputs.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.dll
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.genruntimeconfig.cache
