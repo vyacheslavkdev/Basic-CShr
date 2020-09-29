@@ -1,0 +1,13 @@
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\Ex5\bin\Debug\netcoreapp3.1\Ex5.exe
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\Ex5\bin\Debug\netcoreapp3.1\Ex5.deps.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\Ex5\bin\Debug\netcoreapp3.1\Ex5.runtimeconfig.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\Ex5\bin\Debug\netcoreapp3.1\Ex5.runtimeconfig.dev.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\Ex5\bin\Debug\netcoreapp3.1\Ex5.dll
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\Ex5\bin\Debug\netcoreapp3.1\Ex5.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\Ex5\obj\Debug\netcoreapp3.1\Ex5.csprojAssemblyReference.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\Ex5\obj\Debug\netcoreapp3.1\Ex5.AssemblyInfoInputs.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\Ex5\obj\Debug\netcoreapp3.1\Ex5.AssemblyInfo.cs
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\Ex5\obj\Debug\netcoreapp3.1\Ex5.csproj.CoreCompileInputs.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\Ex5\obj\Debug\netcoreapp3.1\Ex5.dll
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\Ex5\obj\Debug\netcoreapp3.1\Ex5.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\Ex5\obj\Debug\netcoreapp3.1\Ex5.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\MySupport\bin\Debug\netcoreapp3.1\MySupport.exe
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\MySupport\bin\Debug\netcoreapp3.1\MySupport.deps.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\MySupport\bin\Debug\netcoreapp3.1\MySupport.runtimeconfig.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\MySupport\bin\Debug\netcoreapp3.1\MySupport.runtimeconfig.dev.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\MySupport\bin\Debug\netcoreapp3.1\MySupport.dll
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\MySupport\bin\Debug\netcoreapp3.1\MySupport.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\MySupport\obj\Debug\netcoreapp3.1\MySupport.AssemblyInfoInputs.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\MySupport\obj\Debug\netcoreapp3.1\MySupport.AssemblyInfo.cs
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\MySupport\obj\Debug\netcoreapp3.1\MySupport.csproj.CoreCompileInputs.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\MySupport\obj\Debug\netcoreapp3.1\MySupport.dll
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\MySupport\obj\Debug\netcoreapp3.1\MySupport.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\MySupport\obj\Debug\netcoreapp3.1\MySupport.genruntimeconfig.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW2\HW2\MySupport\obj\Debug\netcoreapp3.1\MySupport.csprojAssemblyReference.cache
