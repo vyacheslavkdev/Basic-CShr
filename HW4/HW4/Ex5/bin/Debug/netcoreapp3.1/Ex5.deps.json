@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ex5/1.0.0": {
+        "dependencies": {
+          "MyMatrix": "1.0.0"
+        },
+        "runtime": {
+          "Ex5.dll": {}
+        }
+      },
+      "MyMatrix/1.0.0": {
+        "runtime": {
+          "MyMatrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyMatrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

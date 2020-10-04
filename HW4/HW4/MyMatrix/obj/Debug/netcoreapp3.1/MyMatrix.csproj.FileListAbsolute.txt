@@ -1,0 +1,13 @@
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyMatrix\bin\Debug\netcoreapp3.1\MyMatrix.exe
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyMatrix\bin\Debug\netcoreapp3.1\MyMatrix.deps.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyMatrix\bin\Debug\netcoreapp3.1\MyMatrix.runtimeconfig.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyMatrix\bin\Debug\netcoreapp3.1\MyMatrix.runtimeconfig.dev.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyMatrix\bin\Debug\netcoreapp3.1\MyMatrix.dll
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyMatrix\bin\Debug\netcoreapp3.1\MyMatrix.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyMatrix\obj\Debug\netcoreapp3.1\MyMatrix.csprojAssemblyReference.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyMatrix\obj\Debug\netcoreapp3.1\MyMatrix.AssemblyInfoInputs.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyMatrix\obj\Debug\netcoreapp3.1\MyMatrix.AssemblyInfo.cs
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyMatrix\obj\Debug\netcoreapp3.1\MyMatrix.csproj.CoreCompileInputs.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyMatrix\obj\Debug\netcoreapp3.1\MyMatrix.dll
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyMatrix\obj\Debug\netcoreapp3.1\MyMatrix.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyMatrix\obj\Debug\netcoreapp3.1\MyMatrix.genruntimeconfig.cache
