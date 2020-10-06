@@ -1,0 +1,13 @@
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyArray\obj\Debug\netcoreapp3.1\MyArray.csprojAssemblyReference.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyArray\obj\Debug\netcoreapp3.1\MyArray.AssemblyInfoInputs.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyArray\obj\Debug\netcoreapp3.1\MyArray.AssemblyInfo.cs
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyArray\obj\Debug\netcoreapp3.1\MyArray.csproj.CoreCompileInputs.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyArray\bin\Debug\netcoreapp3.1\MyArray.exe
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyArray\bin\Debug\netcoreapp3.1\MyArray.deps.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyArray\bin\Debug\netcoreapp3.1\MyArray.runtimeconfig.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyArray\bin\Debug\netcoreapp3.1\MyArray.runtimeconfig.dev.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyArray\bin\Debug\netcoreapp3.1\MyArray.dll
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyArray\bin\Debug\netcoreapp3.1\MyArray.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyArray\obj\Debug\netcoreapp3.1\MyArray.dll
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyArray\obj\Debug\netcoreapp3.1\MyArray.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW4\HW4\MyArray\obj\Debug\netcoreapp3.1\MyArray.genruntimeconfig.cache
