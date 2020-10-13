@@ -1,0 +1,13 @@
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW6\Ex3\bin\Debug\netcoreapp3.1\Ex3.exe
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW6\Ex3\bin\Debug\netcoreapp3.1\Ex3.deps.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW6\Ex3\bin\Debug\netcoreapp3.1\Ex3.runtimeconfig.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW6\Ex3\bin\Debug\netcoreapp3.1\Ex3.runtimeconfig.dev.json
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW6\Ex3\bin\Debug\netcoreapp3.1\Ex3.dll
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW6\Ex3\bin\Debug\netcoreapp3.1\Ex3.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW6\Ex3\obj\Debug\netcoreapp3.1\Ex3.csprojAssemblyReference.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW6\Ex3\obj\Debug\netcoreapp3.1\Ex3.AssemblyInfoInputs.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW6\Ex3\obj\Debug\netcoreapp3.1\Ex3.AssemblyInfo.cs
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW6\Ex3\obj\Debug\netcoreapp3.1\Ex3.csproj.CoreCompileInputs.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW6\Ex3\obj\Debug\netcoreapp3.1\Ex3.dll
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW6\Ex3\obj\Debug\netcoreapp3.1\Ex3.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW6\Ex3\obj\Debug\netcoreapp3.1\Ex3.genruntimeconfig.cache
