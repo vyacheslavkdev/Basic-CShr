@@ -1,0 +1,6 @@
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex1\bin\Debug\Ex1.exe
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex1\bin\Debug\Ex1.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex1\obj\Debug\Ex1.csprojAssemblyReference.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex1\obj\Debug\Ex1.exe
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex1\obj\Debug\Ex1.pdb

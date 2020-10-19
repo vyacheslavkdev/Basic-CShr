@@ -1,0 +1,10 @@
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex2\bin\Debug\Ex2.exe.config
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex2\bin\Debug\Ex2.exe
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex2\bin\Debug\Ex2.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex2\obj\Debug\Ex2.csprojAssemblyReference.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex2\obj\Debug\Ex2.Properties.Resources.resources
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex2\obj\Debug\Ex2.csproj.GenerateResource.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex2\obj\Debug\Ex2.exe
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex2\obj\Debug\Ex2.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex2\obj\Debug\Ex2.LinkForm.resources

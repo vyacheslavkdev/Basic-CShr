@@ -1,0 +1,11 @@
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex4\bin\Debug\Ex4.exe.config
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex4\bin\Debug\Ex4.exe
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex4\bin\Debug\Ex4.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex4\obj\Debug\Ex4.csprojAssemblyReference.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex4\obj\Debug\Ex4.Properties.Resources.resources
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex4\obj\Debug\Ex4.csproj.GenerateResource.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex4\obj\Debug\Ex4.exe
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex4\obj\Debug\Ex4.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex4\obj\Debug\Ex4.SayingsEditForm.resources
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex4\obj\Debug\Ex4.SayingsShowForm.resources
