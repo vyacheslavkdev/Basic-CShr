@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<SayingsModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FirstParts>
+    <string>Не плюй в колодец</string>
+    <string>Под лежачий камень</string>
+    <string>Ласточка весну начинает</string>
+    <string>Что летом родится</string>
+    <string>Много снега - много хлеба</string>
+  </FirstParts>
+  <LastParts>
+    <string>пригодится воды напиться</string>
+    <string>и вода не течет</string>
+    <string>соловей кончает</string>
+    <string>то зимой пригодится</string>
+    <string>много воды - много травы</string>
+  </LastParts>
+</SayingsModel>

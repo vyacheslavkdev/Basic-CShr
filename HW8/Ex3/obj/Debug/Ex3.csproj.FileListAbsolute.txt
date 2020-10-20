@@ -1,0 +1,11 @@
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex3\bin\Debug\Ex3.exe.config
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex3\bin\Debug\Ex3.exe
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex3\bin\Debug\Ex3.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex3\obj\Debug\Ex3.csprojAssemblyReference.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex3\obj\Debug\Ex3.Properties.Resources.resources
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex3\obj\Debug\Ex3.csproj.GenerateResource.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex3\obj\Debug\Ex3.exe
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex3\obj\Debug\Ex3.pdb
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex3\obj\Debug\Ex3.QuestionAddForm.resources
+C:\worksapce\GeekBrains\BasicCsh1\Homemowrks\HW8\Ex3\obj\Debug\Ex3.AboutForm.resources

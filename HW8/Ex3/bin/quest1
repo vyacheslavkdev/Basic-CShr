@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfQuestionModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <QuestionModel>
+    <Question>qwe1</Question>
+    <IsTrue>false</IsTrue>
+  </QuestionModel>
+  <QuestionModel>
+    <Question>qwe2</Question>
+    <IsTrue>true</IsTrue>
+  </QuestionModel>
+  <QuestionModel>
+    <Question />
+    <IsTrue>false</IsTrue>
+  </QuestionModel>
+</ArrayOfQuestionModel>
